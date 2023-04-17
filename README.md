@@ -1,2 +1,2 @@
 # CodeToUML
-![ImagenUML](CodeToUML.png}
+![ImagenUML](CodeToUML.jpg}
